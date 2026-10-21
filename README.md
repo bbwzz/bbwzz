@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Mohammed 👋
 
-<!--
-**bbwzz/bbwzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI engineer based in Riyadh, building applied AI systems that work in both Arabic and English.
 
-Here are some ideas to get you started:
+**What I work on**
+- RAG systems for searching and answering questions over documents
+- Real-time voice AI assistants (speech-to-text, LLMs, text-to-speech)
+- Agentic automation with n8n and LLM agents
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently**
+- AI Solutions Engineering Intern at Smart Mind
+- Building a bilingual Arabic/English AI assistant (coming soon)
+
+**Tools:** Python, PyTorch, FastAPI, Docker, vector databases, n8n
+
+📫 [LinkedIn](https://linkedin.com/in/mohammed-kamal-alnuzaili) | mohammkamal@gmail.com
